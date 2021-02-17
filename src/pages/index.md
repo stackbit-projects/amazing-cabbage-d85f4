@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Sheep Dog Society
-  description: The preview of the Fjord theme
+  description: Sheep Dog Society
   extra:
     - name: 'og:type'
       value: website
